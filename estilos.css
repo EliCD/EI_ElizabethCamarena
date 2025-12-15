@@ -1,0 +1,16 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: #f9faf8; 
+}
+
+.img-equipo {
+    background-image: url("image/istockphoto-1370565928-612x612.jpg");
+}
+
+.img-amor {
+    background-image: url("image/regalo.jpg");
+}
+
+.img-clientes {
+    background-image: url("image/nombres_de_personas_para_perros_25614_orig.jpg");
+}
